@@ -1,1 +1,1 @@
-This is sample file for git operation
+This is sample file for github operation
